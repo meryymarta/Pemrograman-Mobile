@@ -1,9 +1,9 @@
-Laporan Praktikum Minggu 1
-Instalasi dan Pengenalan Dart
+# Laporan Praktikum Minggu 1
+## Instalasi dan Pengenalan Dart
 
-# Nama: Meriam Oktavia
-# NIM: 244107060018
-# Kelas: SIB 2G
+ Nama: Meriam Oktavia
+ NIM: 244107060018
+ Kelas: SIB 2G
 
 1. Pendahuluan
 
