@@ -1,10 +1,10 @@
 # Laporan Pembelajaran: Dasar Pemrograman Dart
 
 **Identitas Mahasiswa:**
-* **Nama:** Meriam Oktavia (Mery)
+* **Nama:** Meriam Oktavia
 * **NIM:** 244107060018
 * **Kelas:** SIB 2G
-* **Prodi / Kampus:** D4 Sistem Informasi Bisnis, Politeknik Negeri Malang
+* **Prodi:** D4 Sistem Informasi Bisnis
 
 ---
 
@@ -22,9 +22,9 @@ Selama mengerjakan tugas (seperti Kalkulator BMI, Kasir Skincare, dan Konversi U
 Kode tidak hanya sekadar bisa berjalan, tetapi juga harus rapi dan profesional. Beberapa standar yang diterapkan di semua tugas meliputi:
 
 | Praktik Terbaik | Penjelasan & Penerapannya |
-**Keamanan Variabel** Membiasakan penggunaan `final` atau `const` untuk data yang sudah pasti, agar nilainya aman dan performa aplikasi lebih optimal. 
-**Penamaan (CamelCase)** Selalu menggunakan huruf kecil di awal dan huruf besar di awal kata berikutnya (contoh: `hargaAkhir`, `totalBelanja`). |
- **Formatting Output** Menggunakan *String Interpolation* (`$`) agar lebih mudah memanggil variabel ke dalam teks, serta `.toStringAsFixed()` agar angka desimal di terminal terlihat rapi. |
+* **Keamanan Variabel** Membiasakan penggunaan `final` atau `const` untuk data yang sudah pasti, agar nilainya aman dan performa aplikasi lebih optimal. 
+* **Penamaan (CamelCase)** Selalu menggunakan huruf kecil di awal dan huruf besar di awal kata berikutnya (contoh: `hargaAkhir`, `totalBelanja`). 
+* **Formatting Output** Menggunakan *String Interpolation* (`$`) agar lebih mudah memanggil variabel ke dalam teks, serta `.toStringAsFixed()` agar angka desimal di terminal terlihat rapi. 
 
 ## Struktur Pengerjaan Tugas
 Agar susunan file tetap rapi, hasil pekerjaan dibagi ke dalam dua *folder* utama:
