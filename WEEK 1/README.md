@@ -1,28 +1,28 @@
 # Laporan Praktikum Minggu 1
 ## Instalasi dan Pengenalan Dart
 
- Nama: Meriam Oktavia
+ ***Nama: Meriam Oktavia**
  NIM: 244107060018
  Kelas: SIB 2G
 
 1. Pendahuluan
 
-Pada praktikum minggu pertama, saya melakukan proses instalasi software yang dibutuhkan untuk pengembangan aplikasi mobile, yaitu Flutter dan Android Studio. Selain itu, saya juga mencoba menjalankan program sederhana menggunakan bahasa Dart untuk memahami dasar-dasarnya.
+    Pada praktikum minggu pertama, saya melakukan proses instalasi software yang dibutuhkan untuk pengembangan aplikasi mobile, yaitu Flutter dan Android Studio. Selain itu, saya juga mencoba menjalankan program sederhana menggunakan bahasa Dart untuk memahami dasar-dasarnya.
 
 2. Proses Instalasi dan Konfigurasi
 A. Instalasi Android Studio
 
 Langkah-langkah yang dilakukan:
 
-Mengunduh file installer Android Studio dari website resminya.
+- Mengunduh file installer Android Studio dari website resminya.
 
-Menjalankan installer.
+- Menjalankan installer.
 
-Memilih tipe instalasi.
+- Memilih tipe instalasi.
 
-Menentukan lokasi penyimpanan.
+- Menentukan lokasi penyimpanan.
 
-Menyetujui lisensi yang diminta.
+- Menyetujui lisensi yang diminta.
 
 B. Instalasi Flutter SDK
 
