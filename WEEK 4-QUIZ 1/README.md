@@ -1,12 +1,3 @@
-# Kuis Praktik: Sistem Pengolah Diskon Toko Terpersonalisasi
-
-* **Nama:** Meriam Oktavia
-* **NIM:** 244107060018
-* **Kelas:** SIB 2G
-
----
-
-## Penjelasan Pengaruh NIM Terhadap Total Belanja
 
 # Kuis Praktik: Sistem Pengolah Diskon Toko
 
