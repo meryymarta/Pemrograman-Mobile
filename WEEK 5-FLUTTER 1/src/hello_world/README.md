@@ -8,6 +8,6 @@ Menjalankan aplikasi hello world pada perangkat fisik (device Android/iOS)
 
 praktikum 1: menjalankan aplikasi flutter baru
 
-![Screenshot hello_world](images/03.jpeg)
-![Screenshot hello_world](images/04.jpeg)
-![Screenshot hello_world](images/05.jpeg)
+![Screenshot hello_world](images/03.png)
+![Screenshot hello_world](images/04.png)
+![Screenshot hello_world](images/05.png)
