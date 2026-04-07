@@ -1,57 +1,69 @@
-# hello_world
+# Hello World
 
-**Nama: Meriam Oktavia Martadinata**
-**Nim: 244107060018**
-**Kelas: SIB-2G**
+* **Nama:** Meriam Oktavia Martadinata
+* **NIM:** 244107060018
+* **Kelas:** SIB-2G
 
-**praktikum 1: menjalankan aplikasi flutter baru**
+---
+
+## Praktikum 1: Menjalankan Aplikasi Flutter Baru
 
 ![Screenshot hello_world](images/03.jpeg)
+
 ![Screenshot hello_world](images/04.jpeg)
+
 ![Screenshot hello_world](images/05.jpeg)
 
-**praktikum 2: Menjalankan aplikasi hello world pada perangkat fisik (device Android/iOS)**
+---
+
+## Praktikum 2: Menjalankan Aplikasi Hello World pada Perangkat Fisik (Device Android/iOS)
 
 ![Screenshot hello_world](images/01.png)
+
 <img src="images/02.jpeg" width="300" alt="Screenshot hellow_world">
 
-**praktikum 3: repository github dan laporan**
+---
+
+## Praktikum 3: Repository GitHub dan Laporan
+
 ![Screenshot hello_world](images/06.jpeg)
 
-sudah berhasil melakukan laporan di file readme.md
+*Sudah berhasil melakukan laporan di file readme.md*
 
-**praktikum 4: Menerapkan widget dasar**
-Langkah 1: Text Widget
+---
+
+## Praktikum 4: Menerapkan Widget Dasar
+
+### Langkah 1: Text Widget
 ![Screenshot hello_world](images/07.jpeg)
-berhasil mengubah text sesuai nama masing masing
+*Berhasil mengubah text sesuai nama masing-masing.*
 
-Langkah 2: Image widget
+### Langkah 2: Image Widget
 ![Screenshot hello_world](images/08.jpeg)
-logo polinema berhasil tampil
+*Logo Polinema berhasil tampil.*
 
-**praktikum 5: Menerapkan widget material design dan OS cupertino**
-Langkah 1: Cupertino button dan loading bar
+---
+
+## Praktikum 5: Menerapkan Widget Material Design dan OS Cupertino
+
+### Langkah 1: Cupertino Button dan Loading Bar
 ![Screenshot hello_world](images/09.jpeg)
 
-Langkah 2: Floating action button (FAB)
+### Langkah 2: Floating Action Button (FAB)
 ![Screenshot hello_world](images/10.jpeg)
 
-Langkah 3: Scaffold widget
+### Langkah 3: Scaffold Widget
 ![Screenshot hello_world](images/11.jpeg)
 
-Langkah 4: Dialog Widget
+### Langkah 4: Dialog Widget
 ![Screenshot hello_world](images/12.jpeg)
+
 ![Screenshot hello_world](images/13.jpeg)
 
-
-Langkah 5: Input dan Selection widget
+### Langkah 5: Input dan Selection Widget
 ![Screenshot hello_world](images/14.jpeg)
 
-
-Langkah 6: Date dan time pickers
+### Langkah 6: Date dan Time Pickers
 ![Screenshot hello_world](images/15.jpeg)
+
 ![Screenshot hello_world](images/16.jpeg)
-
-
-
-
