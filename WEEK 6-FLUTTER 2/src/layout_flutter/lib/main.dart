@@ -9,13 +9,14 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     Color color = Theme.of(context).primaryColor;
 
+    // --- Langkah 1: Bagian Judul (titleSection) ---
     Widget titleSection = Container(
       padding: const EdgeInsets.all(32),
       child: Row(
         children: [
           Expanded(
             child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start, 
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Container(
                   padding: const EdgeInsets.only(bottom: 8),
@@ -37,13 +38,14 @@ class MyApp extends StatelessWidget {
           ),
           Icon(
             Icons.star,
-            color: Colors.red[500], 
+            color: Colors.red[500],
           ),
-          const Text('41'), 
+          const Text('41'),
         ],
       ),
     );
 
+    // --- Langkah 2: Bagian Tombol (buttonSection) ---
     Widget buttonSection = Row(
       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
       children: [
@@ -51,6 +53,18 @@ class MyApp extends StatelessWidget {
         _buildButtonColumn(color, Icons.near_me, 'ROUTE'),
         _buildButtonColumn(color, Icons.share, 'SHARE'),
       ],
+    );
+
+    // --- Langkah 3: Bagian Teks (textSection) ---
+    Widget textSection = Container(
+      padding: const EdgeInsets.all(32),
+      child: const Text(
+        'Gunung Banyak merupakan salah satu destinasi wisata di Batu, Malang yang menawarkan pemandangan indah dari ketinggian. '
+        'Tempat ini sering digunakan untuk olahraga paralayang. '
+        '\n\nNama: Meriam Oktavia Martadinata '
+        '\nNIM: 244107060018',
+        softWrap: true,
+      ),
     );
 
     return MaterialApp(
@@ -63,6 +77,7 @@ class MyApp extends StatelessWidget {
           children: [
             titleSection,
             buttonSection,
+            textSection,
           ],
         ),
       ),
