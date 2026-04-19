@@ -8,19 +8,19 @@
 
 ## Praktikum 1: Menjalankan Aplikasi Flutter Baru
 
-![Hasil Praktikum 1 - Title Section](images/1.jpeg)
+![Hasil Praktikum 1 - Title Section](src/images/1.jpeg)
 
 ---
 
 ## Praktikum 2: Implementasi button row
 
-![Screenshot hello_world](images/2.jpeg)
+![Screenshot hello_world](src/images/2.jpeg)
 
 ---
 
 ## Praktikum 3: Implementasi text section
 
-![Screenshot hello_world](images/3.jpeg)
+![Screenshot hello_world](src/images/3.jpeg)
 
 
 ---
@@ -28,7 +28,7 @@
 ## Praktikum 4: Implementasi image section
 
 ### Langkah 1: Text Widget
-![Screenshot hello_world](images/4.jpeg)
+![Screenshot hello_world](src/images/4.jpeg)
 *Berhasil mengubah text sesuai nama masing-masing.*
 
 
