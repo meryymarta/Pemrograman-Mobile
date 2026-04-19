@@ -8,7 +8,7 @@
 
 ## Praktikum 1: Menjalankan Aplikasi Flutter Baru
 
-![Screenshot hello_world](images/1.jpeg)
+![Hasil Praktikum 1 - Title Section](images/1.jpeg)
 
 ---
 
