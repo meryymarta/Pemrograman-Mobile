@@ -61,9 +61,9 @@
 * **Hero Animation:** Transisi gambar yang halus saat berpindah halaman.
 * **Clean Code:** Pemecahan widget menjadi komponen yang lebih kecil (Refactoring).
 
-![Hasil Tugas Praktikum 2 (sebelum modifikasi)](src/images/7.jpeg)
-
-![Hasil Tugas Praktikum 2 (sesudah modifikasi)](src/images/8.jpeg)
+| Sebelum Modifikasi | Sesudah Modifikasi |
+|---|---|
+| ![Sebelum](src/images/7.jpeg) | ![Sesudah](src/images/8.jpeg) |
 
 **Analisis Output:**
 Pada halaman utama (**Home Page**), data ditampilkan menggunakan widget `GridView` yang membagi layar menjadi dua kolom, memberikan tata letak kartu produk yang rapi dan interaktif. Setiap kartu produk memuat atribut lengkap: gambar produk (URL), nama, harga dengan aksen oranye, serta informasi stok dan rating bintang di bagian bawah. *Footer* aplikasi juga menampilkan identitas Nama dan NIM secara statis.
